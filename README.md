@@ -16,3 +16,6 @@ edit /boot/settings.ini to change the time between photos if not using a light s
 Safe shutdown and reboot:
 GPIO 21 button for shuting down the pi
 GPIO 23 button for rebooting pi
+
+
+This is a work in progress
